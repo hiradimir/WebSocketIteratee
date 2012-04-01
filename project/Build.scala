@@ -4,8 +4,8 @@ import PlayProject._
 
 object ApplicationBuild extends Build {
 
-    val appName         = "WebSocketIteratee"
-    val appVersion      = "1.0-SNAPSHOT"
+    val appName         = "websocket-chat"
+    val appVersion      = "1.0"
 
     val appDependencies = Seq(
       // Add your project dependencies here,
